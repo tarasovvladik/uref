@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Страница не найдена | Woman.ru</title>
+  <link rel="shortcut icon" href="//i43.woman.ru/mobile-st-2/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="//i43.woman.ru/mobile-st-2/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" sizes="32x32" href="//i43.woman.ru/mobile-st-2/img/favicon_png_32.png">
+  <link rel="icon" sizes="96x96" href="//i43.woman.ru/mobile-st-2/img/favicon_png_96.png">
+  <link rel="icon" sizes="144x144" href="//i43.woman.ru/mobile-st-2/img/favicon_png_144.png">
+  <link rel="icon" sizes="152x152" href="//i43.woman.ru/mobile-st-2/img/favicon_retina_png_152.png">
+  <link rel="apple-touch-icon" href="//i43.woman.ru/mobile-st-2/img/favicon_png_32.png">
+  <link rel="apple-touch-icon" sizes="96x96" href="//i43.woman.ru/mobile-st-2/img/favicon_png_96.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="//i43.woman.ru/mobile-st-2/img/favicon_png_144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="//i43.woman.ru/mobile-st-2/img/favicon_retina_png_152.png">
+  <meta name="msapplication-TileColor" content="#d53ab1">
+  <meta name="msapplication-TileImage" content="//i43.woman.ru/mobile-st-2/img/favicon_png_144.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" type="text/css" href="http://i41.woman.ru/mobile-st-2/build/css/style.css">
+  <style>
+    .error {
+      font-size: 16px;
+      line-height: 1.5;
+      padding: 20px 0 30px;
+      text-align: center;
+    }
+    .error h2 {
+      font-size: 7em;
+      color: #C63491;
+    }
+  </style>
+</head>
+<body class="x1">
+
+<section class="popup__wrapper js-popup-login">
+  <div class="popup popup__login"><a class="popup__close-btn js-popup-login-close-btn"></a>
+    <h2 class="popup__login__head">Вход</h2>
+
+    <div class="popup__social__wrapper">
+      <a target="_blank" data-is-button="true" href="/user/login_by_social_network/?service=vkontakte" class="popup__social_btn popup__social_btn_vk"></a><a target="_blank" data-is-button="true" href="/user/login_by_social_network/?service=facebook" class="popup__social_btn popup__social_btn_fb"></a><a target="_blank" data-is-button="true" href="/user/login_by_social_network/?service=odnoklassniki" class="popup__social_btn popup__social_btn_ok"></a><a target="_blank" data-is-button="true" href="/user/login_by_social_network/?service=twitter" class="popup__social_btn popup__social_btn_tw"></a><a target="_blank" data-is-button="true" href="/user/login_by_social_network/?service=google_oauth" class="popup__social_btn popup__social_btn_gp"></a>
+    </div>
+
+    <p class="popup__login__paragraph" style="display:none">или</p>
+
+    <form id="yw0" action="/relations/sex/thread/4659461/4/" method="post"><input placeholder="Логин или E-mail" class="popup__login__name" data-field-name="username" name="SiteLoginForm[username]" id="SiteLoginForm_username" type="text" /><input placeholder="Пароль" class="popup__login__password" data-field-name="password" name="SiteLoginForm[password]" id="SiteLoginForm_password" type="password" /><input value="0" data-field-name="rememberMe" name="SiteLoginForm[rememberMe]" id="SiteLoginForm_rememberMe" type="hidden" /><input class="popup__login__submit" type="submit" name="yt1" value="Вход" id="yt1" /></form>        <div class="popup__footer"><a href="/user/register/" class="f-left">Регистрация</a><a href="/user/remember/" class="f-right">Забыли пароль?</a></div>
+  </div>
+</section>
+
+<section class="content-wrapper">
+  <section class="wrapper js-wrapper">
+    <header style="transform: translate(0px, 0px) translateZ(0px);" class="header__wrapper header__wrapper_state_relative">
+      <div class="header">
+        <div class="header__table">
+          <div class="header__table-cell">
+
+            <div class="button button__forum">
+              <a title="Перейти к списку тем форума" href="/forum/" data-is-button="header__forum" class="header__forum">
+                <div class="icon icon__forum"></div>
+              </a>
+            </div>
+          </div>
+
+          <div class="header__table-cell header__table-cell--major">
+            <a href="/" class="header__logo">
+              <div class="icon icon__logo"></div>
+            </a>
+          </div>
+
+          <div class="header__table-cell">
+          </div>
+        </div>
+      </div>
+    </header>
+    <nav class="nav">
+      <div class="nav__scroll-detector"><span></span></div>
+      <div class="nav__arrow nav__arrow--right"></div>
+      <div class="nav__container js-nav-cnt" style="overflow-x: scroll; overflow-y: hidden">
+        <div class="nav__wrap js-nav-list">
+
+          <a class="nav__item" style="" href="/">Главная</a><a class="nav__item" style="" href="/forum/">Форум</a><a class="nav__item" style="" href="/stars/">Звёзды</a><a class="nav__item nav__item_select_current" style="" href="/fashion/">Мода</a><a class="nav__item" style="" href="/fashion/samie-stilnie-2016/">Самые стильные</a><a class="nav__item" style="" href="/100things/">100 нужных вещей</a><a class="nav__item" style="" href="/beauty/">Красота</a><a class="nav__item" style="" href="/relations/">Любовь</a><a class="nav__item" style="" href="/psycho/">Психология</a><a class="nav__item" style="" href="/health/diets/">Диеты</a><a class="nav__item" style="" href="/health/">Здоровье</a><a class="nav__item" style="" href="/kids/">Дети</a><a class="nav__item" style="" href="/rest/">Жизнь</a><a class="nav__item" style="" href="/home/">Дом</a><a class="nav__item" style="" href="/horoscope/">Гороскоп</a><a class="nav__item" style="" href="/dreams/">Сонник</a>
+        </div>
+      </div>
+    </nav>
+    <article class="error">
+      <h2>404</h2>
+      Запрашиваемая страница не найдена
+    </article>
+
+    <footer class="footer">
+      <div class="footer__logos">
+        <div class="footer__holding">
+          <div class="icon icon__holding"></div>
+        </div>
+        <div class="footer__socials">
+          <div>
+
+          <span class="footer__social js-footer__link" rel="f">
+            <div class="icon icon__facebook"></div>
+          </span>
+
+          <span class="footer__social js-footer__link" rel="vk">
+            <div class="icon icon__vk"></div>
+          </span>
+
+          <span class="footer__social js-footer__link" rel="viber">
+            <div class="icon icon__viber"></div>
+          </span>
+
+          <span class="footer__social js-footer__link" rel="i">
+            <div class="icon icon__instagram"></div>
+          </span>
+
+          <span class="footer__social js-footer__link" rel="tw">
+            <div class="icon icon__twitter"></div>
+          </span>
+          </div>
+          <div>
+          <span class="footer__social js-footer__link" rel="ok">
+            <div class="icon icon__odnoklassniki"></div>
+          </span>
+          <span class="footer__social js-footer__link" rel="g">
+            <div class="icon icon__google-plus"></div>
+          </span>
+          <span class="footer__social js-footer__link" rel="p">
+            <div class="icon icon__pinterest"></div>
+          </span>
+          <span class="footer__social js-footer__link" rel="mail">
+            <div class="icon icon__mail-ru"></div>
+          </span>
+          </div>
+        </div>
+        <div class="footer__stores">
+        <span class="footer__social js-footer__link" rel="aapp">
+          <div class="icon icon__apple-store"></div>
+        </span>
+        <span class="footer__social js-footer__link" rel="gaap">
+          <div class="icon icon__google-play"></div>
+        </span>
+        </div>
+        <p class="footer__copyright">ООО «Херст Шкулев паблишинг», 2016 г.</p>
+      </div>
+    </footer>
+  </section>
+</section>
+
+
+</body>
+</html>

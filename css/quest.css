@@ -1,0 +1,52 @@
+#stageHint,#hoverPopUpHint {position:absolute;display:none;width:300px;z-index:100}
+#quest {overflow:hidden;position:relative; padding:10px; border:1px solid #999;width:280px}
+#quest-1 {overflow:hidden;position:relative; padding:50px;width:220px; height:115px;background:url('../img/pop_up_1.png') 0 0 no-repeat;font-size:12px;}
+#quest-2 {overflow:hidden;position:relative; padding:50px; width:300px;height:100px;background:url('../img/pop_up_2.png') 0 0 no-repeat}
+#temp_container {overflow:hidden;position:relative; padding:45px;width:176px; height:92px;background:url('../img/pop_up_3.png') 0 0 no-repeat;}
+#quest-bottom {padding:10px 10px 10px;min-height:160px;font:600 21px 'Arial';color:#bb3a4b}
+#quest-bottom a {color:#922a8d}
+#stars-container {position:absolute;top:10px;left:10px; font-size:16px; color:#000;}
+#stars-container img {margin:3px 0 0 4px!important}
+#stars-container a {color:#fff;}
+#quest-rules {margin-top:10px;overflow:hidden;}
+#quest-rules a {font:600 14px 'Arial';color:#000;text-decoration:underline}
+#quest-rules {font:600 14px 'Arial';color:#000}
+#about-stars {font:600 21px 'Arial';color:#bb3a4b}
+#about-stars a {background:url('../img/quest_arrow.gif') no-repeat 100% 7px;padding-right:15px}
+#about-stars a:hover {text-decoration:underline}
+#quest-bottom #quest-hint {font-size:11px;color:#fff}
+img.hand {cursor:pointer;border:0 solid transparent !important;vertical-align:middle;margin: 0 2px !important;}
+#quest-rules .fl-right {float:right; margin:0 10px;}
+#close-quest {position:absolute; top:10px; right:10px; cursor:pointer;}
+.quest-tip{font-size:60%;}
+
+.single {top:0px}
+.menu.inv.for-quiz{border-top: 1px solid #B7B7B7; margin:40px 0;}
+.menu.inv.for-quiz a {color:#000;}
+.headingH2 {min-height:20px;}
+.headingH2 h1 {margin-top:20px; }
+
+#ratingTable {font-size:14px;}
+#ratingTable th {padding:10px 0 20px; font-size:122%; font-weight:bold;}
+#ratingTable td {text-align:center;vertical-align:middle;}
+#ratingTable td+td+td+td {width:280px;text-align:left;}
+#ratingTable td+td+td+td span {margin-right:5px;display: inline-block;}
+#ratingTable td+td+td+td span img {margin-right:5px;}
+#ratingTable td+td+td {min-width:123px;}
+#ratingTable img {vertical-align:middle;}
+#ratingTable .number {margin-right:20px;width:30px;display:inline-block;}
+
+/* DUMB PAGER */
+#next-page, #prev-page {font:normal 14px 'Arial';position:absolute;background:none;top:5px;margin:0;padding:0}
+#next-page {right:0}
+#prev-page {left:0}
+b#prev-page, b#next-page {color:#ccc}
+
+
+.nav {margin:20px 5px 0 5px;width:545px;clear:both;height:35px;text-align:center;color:#333;position:relative;}
+.nav a {min-width:14px;display:inline-block;background:url('../img/nav_b.png') top right;margin:0 3px;position:relative;height:23px;padding:7px 8px 0}
+.nav a span {position:absolute;left:0;top:0;width:2px;height:30px;background:url('../img/nav_b_l.png')}
+.nav .hellip {background:transparent;color:#333;font-weight:bold;padding-top:7px}
+.nav .selected {background:none;color:#f00;padding:7px 0 0 0}
+/*<btns_block>*/
+.btns_block{padding-bottom:10px;}

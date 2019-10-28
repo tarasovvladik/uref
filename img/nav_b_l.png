@@ -1,0 +1,1393 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" itemscope>
+<head>
+  <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+  <meta charset="UTF-8"/>
+  <link rel="alternate" href="http://m.woman.ru/"/>
+  <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/mcdeckkleggdbmbohmippaanbfgblipf">
+  <meta name="fb:app_id" content="374908162526210"/>
+  <meta name="fb:admins" content="1615690697"/>
+  <meta name="og:url" content="http://www.woman.ru/"/>
+  <meta name="og:type" content="website"/>
+  <meta name="og:locale" content="ru_RU"/>
+  <meta name="og:title" content="Женский журнал Woman.ru"/>
+  <meta name="og:description" content="Свежие новости и самые красивые фото! Все о звездах, моде и красоте!"/>
+  <meta name="og:image" content="http://i41.woman.ru/i/thumb_og.jpg"/>
+  <meta name="google-site-verification" content="S-lBVHD-Zm7sUrbjnsst-9vDW_WXSRRdxMbtP8WcQEI"/>
+  <meta name="yandex-verification" content="7a02d84242b8983a"/>
+  <meta name="msvalidate.01" content="E5112AC2AE55D3613FBF988A9C86BF2B"/>
+  <meta name="wmail-verification" content="02a7796b08a38e13"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="keywords"
+        content="Женский журнал Woman.ru: звезды, мода, красота, любовь, секс, гороскопы, психология, дети и здоровье"/>
+  <link rel="canonical" href="http://www.woman.ru/"/>
+  <link rel="alternate" type="application/rss+xml" href="/rss/"/>
+  <link rel="stylesheet" type="text/css" href="http://i41.woman.ru/s/god.css" media="all"/>
+  <script type="text/javascript"> var clientSideParameters = {
+    "pageParams": {"id": 103, "type": 9, "theme": ""},
+    "is_sproject": false,
+    "adriver_banners": 1,
+    "adriver_tags": "",
+    "keywords": "",
+    "tag_ids": [],
+    "branding": 0
+  };</script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/vendor/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/vendor/jquery-ui/js/jquery-ui-1.9.2.custom.min.js"></script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/jquery.cookie.js"></script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/stat.js"></script>
+  <script type="text/javascript">
+    /*<![CDATA[*/
+    window.womanStatsData = {
+      'config': {"cookie_name": "woman_uid", "url": "http:\/\/stat.woman.womantest\/stat\/"},
+      'data': [{"base_type": 9, "publication_id": 103}]
+    };
+    jQuery(function () {
+      window.womanStat = new Woman.Stat(window.womanStatsData.config, window.womanStatsData.data, true);
+    });
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    googletag.cmd.push(function () {
+      if (typeof _bunnersSlots === 'function') {
+        _bunnersSlots();
+      }
+    });
+    /*]]>*/
+  </script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/jquery/jquery.fancybox-1.3.4.pack.js"></script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/main.js"></script>
+  <script type="text/javascript">
+    /*<![CDATA[*/
+    $j = jQuery.noConflict();
+    /*]]>*/
+  </script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/prototype.js"></script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/section/health/health.js"></script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/ajax.js"></script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/jquery.lazyload.js"></script>
+  <script type="text/javascript" src="http://i41.woman.ru/js/jquery.inview.min.js"></script>
+  <script type="text/javascript">
+    /*<![CDATA[*/
+    function _pageTracker(type) {
+      this.type = type;
+      this._trackPageview = function (a, b, c) {
+        _gaq.push(['_trackPageview', a, b, c]);
+      };
+    }
+    var pageTracker = new _pageTracker();
+    /*]]>*/
+  </script>
+  <script type="text/javascript">
+    /*<![CDATA[*/
+    var pageVariables = {"is_branding": false, "is_sproject": false};
+    /*]]>*/
+  </script>
+  <script type="text/javascript">
+    /*<![CDATA[*/
+    function isFromTiz() {
+      var ref = document.referrer;
+      if (!ref ||
+              ref.match(/^https?:\/\/(teasers\.|www\.|)sshilov\.womandev/i) ||
+              ref.indexOf('/adriver') >= 0) {
+        return false;
+      } else {
+        return true;
+      }
+    }
+    /*]]>*/
+  </script>
+  <title> Woman.ru | Страница не найдена</title>
+  <script type="text/javascript">
+    var cb = new Date().getTime();
+    var asiPqTag = false;
+    try {
+      document.write("<sc" + "ript type='text/javascript' language='JavaScript' src='//pq-direct.revsci.net/pql?placementIdList=OgIU33&cb=" + cb + "'></sc" + "ript>");
+    } catch (err) {
+    }
+    function custom(t, e) {
+      var n = 0;
+      if (typeof asiPlacements != "undefined" && typeof asiPlacements[t] !== "undefined") {
+        if (asiPlacements[t]["default"])n = 1
+      }
+      if (e)e[95] = t;
+      return n
+    }
+  </script>
+  <link rel="shortcut icon" href="//i43.woman.ru/mobile-st-2/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="//i43.woman.ru/mobile-st-2/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" sizes="32x32" href="//i43.woman.ru/mobile-st-2/img/favicon_png_32.png">
+  <link rel="icon" sizes="96x96" href="//i43.woman.ru/mobile-st-2/img/favicon_png_96.png">
+  <link rel="icon" sizes="144x144" href="//i43.woman.ru/mobile-st-2/img/favicon_png_144.png">
+  <link rel="icon" sizes="152x152" href="//i43.woman.ru/mobile-st-2/img/favicon_retina_png_152.png">
+  <link rel="apple-touch-icon" href="//i43.woman.ru/mobile-st-2/img/favicon_png_32.png">
+  <link rel="apple-touch-icon" sizes="96x96" href="//i43.woman.ru/mobile-st-2/img/favicon_png_96.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="//i43.woman.ru/mobile-st-2/img/favicon_png_144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="//i43.woman.ru/mobile-st-2/img/favicon_retina_png_152.png">
+  <meta name="msapplication-TileColor" content="#d53ab1">
+  <meta name="msapplication-TileImage" content="//i43.woman.ru/mobile-st-2/img/favicon_png_144.png">
+</head>
+<script type="text/javascript">
+  var wsPageInfo = {
+    date: new Date(),
+    pageType: 'page_announces',
+    publicationId: 0,
+  };
+  setTimeout(function () {
+    function t() {
+      if (window.localStorage && "www.woman.ru" == window.location.host) {
+        var t = document.createElement("script");
+        t.type = "text/javascript", t.async = !0, t.defer = "defer", t.src = "http://ws.hi6.ru/js.js?" + Math.floor(Date.now() / 1e3 / 60 / 5), document.body.appendChild(t)
+      }
+    }
+
+    try {
+      t()
+    } catch (e) {
+    }
+  }, 1);
+</script>
+
+
+<script>
+  window.jQuery(function ($) {
+    $('img.img-lazy-load').lazyload({
+      threshold: 350,
+      failure_limit: 4,
+      skip_invisible: false
+    }).one('inview', function () {
+      if (this.getAttribute('src').match(/\/i\/white.gif/) != null) {
+        this.setAttribute('src', this.getAttribute('data-original'));
+      }
+    });
+  });
+</script>
+
+<body id="body_new" onload="loadBSN()" class="main">
+<!--<script type="text/javascript" src="/static/ads/adriver.core.2.js"></script>-->
+<script type="text/javascript">
+  /*<![CDATA[*/
+  window._bunners = {
+    push: function (func) {
+      if (typeof func === "function") {
+        func();
+      }
+    }
+  };
+  //window._adriverMobileInlineCounter = 0;
+  //new adriver.Plugin.require("old.adriver");
+  //new adriver.Plugin.require("autoLoad.adriver");
+  var N = 9;
+  var ar_duo1 = Math.floor(Math.random() * N + 1);
+
+  var tags_keywords = "";
+  var ar_sz_tag = "";
+  var ar_custom = [];
+  ar_custom[1] = "";
+
+  function checkGeo(geo) {
+    var userGeo = null;
+    if (jQuery.cookie('userGeo')) userGeo = jQuery.cookie('userGeo');
+    else {
+      var res = jQuery.ajax({'type': 'get', 'url': '/usergeo/', 'async': false,});
+      try {
+        userGeo = (JSON.parse(res.responseText)).result;
+      }
+      catch (e) {
+      }
+
+      if (userGeo !== null) jQuery.cookie('userGeo', userGeo);
+    }
+
+    if (userGeo == '' || userGeo.indexOf('none') != -1) userGeo = 'RU';
+
+    var geo = geo.split(' ');
+    if (geo.indexOf('+' + userGeo) != -1) return true;
+    if (geo.indexOf('-' + userGeo) != -1) return false;
+    return geo.indexOf('-ALL') == -1;
+  }
+
+  var wdata = jQuery.cookie('wdata');
+  if (wdata != null) {
+    var soc = JSON.parse(wdata);
+    if (typeof soc['socio_demographics'] != 'undefined') {
+      if (typeof soc['socio_demographics']['age'] != 'undefined')
+        ar_custom[2] = soc['socio_demographics']['age'];
+      if (typeof soc['socio_demographics']['gender'] != 'undefined')
+        ar_custom[3] = soc['socio_demographics']['gender'];
+      if (typeof soc['socio_demographics']['social_class'] != 'undefined')
+        ar_custom[4] = soc['socio_demographics']['social_class'];
+    }
+    if (typeof soc['interests'] != 'undefined')
+      ar_custom[5] = soc['interests'].join();
+    if (typeof soc['segments'] != 'undefined')
+      ar_custom[6] = soc['segments'].join();
+  }
+  /*]]>*/
+</script>
+
+<div id="sitemap" style="display:none"></div>
+<div id="sectionmap" style="display:none"></div>
+
+
+<div class="our-social our-social__left">
+  <div class="our-social__close"></div>
+  <div class="our-social__intro">в социальных сетях <br/><br/> <i>Присоединяйтесь!</i></div>
+  <div class="our-social__item our-social__fb" rel-type='fb'>
+    <div class="item__button"><span></span></div>
+  </div>
+  <div class="our-social__item our-social__vk" rel-type='vk'>
+    <div class="item__button"><span></span></div>
+  </div>
+  <div class="our-social__item our-social__tw" rel-type='tw'>
+    <div class="item__button"><span></span></div>
+  </div>
+  <div class="our-social__item our-social__ok" rel-type='ok'>
+    <div class="item__button"><span></span></div>
+  </div>
+  <div class="our-social__item our-social__gp" rel-type='gp'>
+    <div class="item__button"><span></span></div>
+  </div>
+  <div class="our-social__item our-social__pn" rel-type='pn'>
+    <div class="item__button"><span></span></div>
+  </div>
+  <div class="our-social__item our-social__mm" rel-type='mm'>
+    <div class="item__button"><span></span></div>
+  </div>
+  <div class="our-social__item our-social__in" rel-type='in'>
+    <div class="item__button"><span></span></div>
+  </div>
+  <div class="our-social__item our-social__vb" rel-type='vb'>
+    <div class="item__button"><span></span></div>
+  </div>
+</div>
+
+
+<noindex><a rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a><a
+        rel="nofollow, noindex" style="display:none" href="/pages/page42/">Интересная статья</a></noindex>
+<!-- (C)2000-2014 Gemius SA - gemiusAudience / woman.ru / Pages -->
+<script type="text/javascript">
+  <!--//-->
+  <![CDATA[//><!--
+  var pp_gemius_identifier = '..5K37AaK7n4fWShb._.xZZWzXBRBhu01Bzu869zFvr.17';
+  // lines below shouldn't be edited
+  function gemius_pending(i) {
+    window[i] = window[i] || function () {
+      var x = window[i + '_pdata'] = window[i + '_pdata'] || [];
+      x[x.length] = arguments;
+    };
+  }
+  ;
+  gemius_pending('gemius_hit');
+  gemius_pending('gemius_event');
+  gemius_pending('pp_gemius_hit');
+  gemius_pending('pp_gemius_event');
+  (function (d, t) {
+    try {
+      var gt = d.createElement(t), s = d.getElementsByTagName(t)[0], l = 'http' + ((location.protocol == 'https:') ? 's' : '');
+      gt.setAttribute('async', 'async');
+      gt.setAttribute('defer', 'defer');
+      gt.src = l + '://ua.hit.gemius.pl/xgemius.js';
+      s.parentNode.insertBefore(gt, s);
+    } catch (e) {
+    }
+  })(document, 'script');
+  //--><!
+  ]]>
+</script>
+
+
+<noindex>
+
+  <div class="counters">
+    <!-- tns-counter.ru -->
+    <script language="JavaScript">
+      var img = new Image();
+      img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g, '%2a') + '*timeout_ru/ru/CP1251/tmsec=woman_total/';
+    </script>
+    <noscript>
+      <img src="http://www.tns-counter.ru/V13a****timeout_ru/ru/CP1251/tmsec=woman_total/" width="1" height="1" alt=""/>
+    </noscript>
+    <!--/ tns-counter.ru -->
+
+
+    <!--LiveInternet counter-->
+    <script type="text/javascript"><!--
+    new Image().src = "//counter.yadro.ru/hit;hsdigital/wn/woman?r" +
+    escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+    ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+            screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+    ";h" + escape(document.title.substring(0, 80)) +
+    ";" + Math.random();//--></script>
+    <!--/LiveInternet-->
+
+
+    <noscript>
+      <img src="http://www.tns-counter.ru/V13a****timeout_ru/ru/CP1251/tmsec=woman_total/" width="1" height="1" alt=""/>
+
+      <div>
+        <img src="//mc.yandex.ru/watch/1282253" style="position:absolute; left:-9999px;" alt=""/>
+      </div>
+    </noscript>
+  </div>
+
+  <script>
+    window._gaq = window._gaq || [];
+
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+              m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-3365753-1', 'auto');
+    ga('require', 'displayfeatures');
+
+    ga('set', 'dimension1', 'page 404');
+    ga('set', 'dimension9', 'desktop');
+    ga('set', 'dimension10', '0');
+    ga('send', 'pageview');
+
+  </script>
+
+
+  <!-- Yandex.Metrika counter -->
+  <div style="display:none;">
+    <script type="text/javascript">
+      (function (w, c, $) {
+        (w[c] = w[c] || []).push(function () {
+          try {
+            var options = {
+              id: 1282253,
+              clickmap: true,
+              trackLinks: true,
+              webvisor: true,
+              trackHash: true,
+              accurateTrackBounce: true
+            };
+            w.yaCounter1282253 = new Ya.Metrika(options);
+          }
+          catch (e) {
+          }
+
+          var _RELATED_STATE = $.cookie('_RELATED_STATE');
+          if (w.yaCounter1282253) {
+            if (_RELATED_STATE === 'new') {
+              w.yaCounter1282253.params({related_test: "contain image"});
+            } else if (_RELATED_STATE === 'old') {
+              w.yaCounter1282253.params({related_test: "not contain image"});
+            }
+          }
+        });
+      })(window, 'yandex_metrika_callbacks', jQuery);
+    </script>
+  </div>
+  <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+  <noscript>
+    <div><img src="//mc.yandex.ru/watch/1282253" style="position:absolute; left:-9999px;" alt=""/></div>
+  </noscript>
+  <!-- /Yandex.Metrika counter -->
+
+</noindex>
+
+<noindex>
+  <div id="overlay-pop-up" style="display: none;"></div>
+  <div id="overlay-pop-up-2" style="display: none;"></div>
+</noindex>
+
+<div id="social-popup-call" style="display:none"></div>
+
+
+<div class="container-wrapper">
+  <div class="banner">
+    <noindex>
+      <div id='div-top-hb'>
+        <script type='text/javascript'>
+          googletag.cmd.push(function () {
+            googletag.display('div-top-hb');
+          });
+        </script>
+      </div>
+    </noindex>
+  </div>
+  <div id="container">
+    <div class="bg-shadow nana"></div>
+    <div id="header">
+      <div class="header__top_bg"></div>
+
+
+      <div class="header__top">
+
+        <div class="search header-search-block search-ui-widget">
+          <form action="/search/" onsubmit="if($(search).value==''){return false;}">
+
+            <div class="line">
+              <div style="margin: 18px 0 0;">
+                <input type="text" id="search" name="q" class="input-search" value="" placeholder="Поиск">
+                <button class="submit-search"></button>
+              </div>
+            </div>
+
+            <div class="line" id="header-search-type" style="display: none">
+
+
+              <div class="column">
+                <label>
+                  <input type="radio" name="where" value="articles"
+                         onclick="$(category).value=''" checked="checked">
+                  По статьям
+                </label>
+              </div>
+
+              <div class="column">
+                <label>
+                  <input type="radio" name="where" value="forum" onclick="$(category).value=''">
+                  По форумам
+                </label>
+              </div>
+              <div class="cl"></div>
+            </div>
+            <input type="hidden" id=category name="category" value=""/>
+            <input type="hidden" name="control_charset" value="Контроль">
+
+          </form>
+        </div>
+
+        
+                    <span class="logo" title="Woman.ru Интернет для женщин"><span>Интернет для женщин</span><em
+                            class="pngfix"></em></span>
+
+        <div class="forum-info">
+          <h4><a href="/forum/" title="Форум" onclick="yaCounter1282253.reachGoal('shapka_lite_forum');">Форум</a>
+          </h4>
+          <!--
+      <ul>
+          <li><? /*=$summary->forum_threads*/ ?> <? /*=StringHelper::declination($summary->forum_threads, array('тема', 'темы', 'тем'))*/ ?>,</li>
+          <li><? /*=$summary->forum_messages*/ ?> <? /*=StringHelper::declination($summary->forum_messages, array('сообщение', 'сообщения', 'сообщений'))*/ ?></li>
+      </ul>-->
+          <a href="/forum/all/" title="Прямой эфир" onclick="yaCounter1282253.reachGoal('shapka_lite_forum_efir');">Прямой
+            эфир</a>
+        </div>
+
+
+        <div class="our-social our-social__header">
+          <div class="our-social__intro">Мы в соцсетях</div>
+          <div class="our-social__item our-social__fb" rel-type='fb'>
+            <div class="item__button"><span></span></div>
+          </div>
+          <div class="our-social__item our-social__vk" rel-type='vk'>
+            <div class="item__button"><span></span></div>
+          </div>
+          <div class="our-social__item our-social__tw" rel-type='tw'>
+            <div class="item__button"><span></span></div>
+          </div>
+          <div class="our-social__item our-social__ok" rel-type='ok'>
+            <div class="item__button"><span></span></div>
+          </div>
+          <div class="our-social__item our-social__gp" rel-type='gp'>
+            <div class="item__button"><span></span></div>
+          </div>
+          <div class="our-social__item our-social__pn" rel-type='pn'>
+            <div class="item__button"><span></span></div>
+          </div>
+          <div class="our-social__item our-social__mm" rel-type='mm'>
+            <div class="item__button"><span></span></div>
+          </div>
+          <div class="our-social__item our-social__in" rel-type='in'>
+            <div class="item__button"><span></span></div>
+          </div>
+        </div>
+      </div>
+      <!-- header__top end-->
+      <div class="header__bottom">
+        <div class="userbar">
+          <ul>
+            <li>
+              <a href="javascript:void(0);" title="Войти" class="show-login-window">Войти</a>
+            </li>
+            <li>
+              <a href="javascript:void(0);" title="Зарегистрироваться" class="show-signup-window">Зарегистрироваться</a>
+            </li>
+          </ul>
+	<span class="make_home_page">
+		<a onclick="selectStartPage(this); return false;" href="http://www.woman.ru/"
+       title="Сделать Woman.ru стартовой страницей">Сделать Woman.ru стартовой страницей</a>
+		<div id="FFpage">
+      <a href="http://www.woman.ru/" title="Сделать Woman.ru стартовой страницей"><img src="http://i41.woman.ru/i/startPage/startIcon.png"
+                                                                                       alt="лого woman.ru"
+                                                                                       id="womanIcon"/></a>
+      <img src="http://i41.woman.ru/i/startPage/closeIcon.png" id="closeIconFF" onclick="closeFFLayer()" alt="закрыть окно"/>
+
+      <p>
+        Перетащите и отпустите иконку &laquo;<a href="http://www.woman.ru/">W</a>&raquo; на иконку &laquo;Дом&raquo; в
+        панели инструментов браузера, затем нажмите &laquo;Да&raquo; во всплывающем окне.
+      </p>
+
+      <p id="altImage">
+        Перетащи <br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;меня
+      </p>
+    </div>
+	</span>
+          <a class="sitemap" href="javascript:showSiteMap('articles')" title="Карта сайта">Карта сайта</a>
+        </div>
+
+
+        <ul class="main-menu">
+          <li class='m1'><a title="Главная" href="/">Главная</a></li>
+          <li class='m2'><a title="Звёзды" href="/stars/">Звёзды</a></li>
+          <li class='m3'><a title="Мода" href="/fashion/">Мода</a></li>
+          <li class='m4'><a title="Красота" href="/beauty/">Красота</a></li>
+          <li class='m5'><a title="Любовь" href="/relations/">Любовь</a></li>
+          <li class='m6'><a title="Психология" href="/psycho/">Психология</a></li>
+          <li class='m11' style='m11'><a title="Диеты" href="/health/diets/">Диеты</a></li>
+          <li class='m7'><a title="Здоровье" href="/health/">Здоровье</a></li>
+          <li class='m8'><a title="Дети" href="/kids/">Дети</a></li>
+          <li class='m9'><a title="Жизнь" href="/rest/">Жизнь</a></li>
+          <li class='m10' style='m10'><a title="Дом" href="/home/">Дом</a></li>
+        </ul>
+        <ul id="sub-menu" class="sub-main-menu">
+          <li class="green-sub" style="background: #ebd700; padding-top: 2px;">
+            <a class=" new-window" target="_blank" title="Рейтинги звезд" href="/ratings/rating-2016/">Рейтинги звезд</a>			</li>
+          <li class="pink-sub" style="padding-top: 2px;">
+            <a class=" new-window" target="_blank" title="Самые стильные" href="/fashion/samie-stilnie-2016/">Самые стильные</a>			</li>
+          <li class="fashion-sub" style="background:#4D90FE; margin-right: 4px; padding-top: 2px;">
+            <a class=" new-window" target="_blank" title="Beauty-рейтинги" href="/beauty-ratings/beauty-ratings-2016/">Beauty-рейтинги</a>			</li>
+          <li class="fashion-sub" style="background: #f36d65; padding-top: 2px;">
+            <a class=" new-window" target="_blank" title="100 нужных вещей" href="/100things/">100 нужных вещей</a>			</li>
+          <li class="" style="">
+            <a title="Гороскопы" href="/horoscope/">Гороскопы</a>			</li>
+          <li class="" style="">
+            <a title="Сонник" href="/dreams/articles/">Сонник</a>			</li>
+          <li class="" style="">
+            <a title="Конкурсы" href="/allcontests/">Конкурсы</a>			</li>
+          <li class="" style="">
+            <a title="Фильмы онлайн" href="/WomanTV/">Фильмы онлайн</a>			</li>
+          <li class="" style="">
+            <a title="Опросы" href="/surveys/">Опросы</a>			</li>
+        </ul>
+      </div>
+      <!-- header__bottom end-->
+    </div>
+    <div id="wrapper"
+         class="">
+      <div id="content">
+        <style>
+          .error-page-carrier {
+            text-align: center;
+            margin: 50px 0 75px;
+          }
+
+          .block-header {
+            font: normal 28px/1.25em Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
+            color: #111;
+          }
+
+          .error-code {
+            color: #a00d37;
+          }
+
+          .block-content {
+            margin: 24px 0 0;
+            font: normal 16px/1.25em Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
+            color: #333;
+          }
+        </style>
+        <div class="error-page-carrier">
+          <h2 class="block-header">Ошибка <span class="error-code">404</span></h2>
+
+          <div class="block-content">Страница не найдена</div>
+        </div>
+
+
+        <noindex>
+          <div id="adriver_600_90"></div>
+        </noindex>
+        <div id="wrapperTab-menu">
+          <ul class="forsitemap tab-menu">
+            <li class="active" target="smbArticles"><a href="#" title="Публикации">Публикации</a></li>
+            <li target="smbForum"><a href="#" title="Форумы">Форумы</a></li>
+          </ul>
+        </div>
+        <div id="wrapperFooterTopic">
+          <div id="smbArticles" class="active">
+            <ul>
+              <li class="topic"><a href="/stars/">Звёзды</a></li>
+
+              <li><a href="/map/tag/stars-encyclopedia/">Энциклопедия звезд</a></li>
+
+              <li><a title="«Евровидение-2015»" href="/stars/eurovision/">«Евровидение-2015»</a></li>
+              <li><a title="Каннский кинофестиваль" href="/stars/cannes/">Каннский кинофестиваль</a></li>
+              <li><a title="Новости" href="/stars/events/">Новости</a></li>
+              <li><a title="Рейтинги" href="/stars/stars-polls/">Рейтинги</a></li>
+              <li><a title="Папарацци" href="/stars/paparazzi/">Папарацци</a></li>
+              <li><a title="Светская хроника" href="/stars/backstage/">Светская хроника</a></li>
+              <li><a title="Интервью" href="/stars/life/">Интервью</a></li>
+              <li><a title="Пресса о звездах" href="/stars/press/">Пресса о звездах</a></li>
+              <li><a title="Обо всем" href="/stars/medley1/">Обо всем</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a href="/fashion/">Мода</a></li>
+
+
+              <li><a title="Мода на звёздах" href="/fashion/celebrities/">Мода на звёздах</a></li>
+              <li><a title="Самые стильные 2015" href="/fashion/samie-stilnie-2015/">Самые стильные 2015</a></li>
+              <li><a title="Самые стильные 2016" href="/fashion/samie-stilnie-2016/">Самые стильные 2016</a></li>
+              <li><a title="Красная дорожка" href="/fashion/redcarpet/">Красная дорожка</a></li>
+              <li><a title="Тренды" href="/fashion/trends/">Тренды</a></li>
+              <li><a title="Одежда" href="/fashion/clothes/">Одежда</a></li>
+              <li><a title="Нижнее белье" href="/fashion/lingerie/">Нижнее белье</a></li>
+              <li><a title="Аксессуары" href="/fashion/accessories/">Аксессуары</a></li>
+              <li><a title="Обувь" href="/fashion/shoes/">Обувь</a></li>
+              <li><a title="Street-fashion" href="/fashion/Street-fashion/">Street-fashion</a></li>
+              <li><a title="Недели моды" href="/fashion/nedeli-mody/">Недели моды</a></li>
+              <li><a title="Эволюция стиля" href="/fashion/style-evolution/">Эволюция стиля</a></li>
+              <li><a title="Самые стильные" href="/fashion/samie-stilnie/">Самые стильные</a></li>
+              <li><a title="Украшения и часы" href="/fashion/jewellery-watches/">Украшения и часы</a></li>
+              <li><a title="Обо всем" href="/fashion/medley3/">Обо всем</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a href="/beauty/">Красота</a></li>
+
+              <li><a href="/beauty/map/">Энциклопедия красоты</a></li>
+              <li><a href="/beauty/map/tag/beauty-brands/">Бренды</a></li>
+              <li><a href="/beauty/map/tag/beauty-experts/">Профессионалы красоты</a></li>
+
+              <li><a title="Лицо" href="/beauty/face/">Лицо</a></li>
+              <li><a title="Тело" href="/beauty/body/">Тело</a></li>
+              <li><a title="Макияж" href="/beauty/cosmetics/">Макияж</a></li>
+              <li><a title="Волосы" href="/beauty/hair/">Волосы</a></li>
+              <li><a title="Ногти" href="/beauty/nails/">Ногти</a></li>
+              <li><a title="Ароматы" href="/beauty/perfume/">Ароматы</a></li>
+              <li><a title="Пластика и косметология" href="/beauty/plastic/">Пластика и косметология</a></li>
+              <li><a title="Видеоуроки" href="/beauty/makeup-video/">Видеоуроки</a></li>
+              <li><a title="SPA уход" href="/beauty/beauty-spa/">SPA уход</a></li>
+              <li><a title="Звезды о красоте" href="/beauty/beauty-stars/">Звезды о красоте</a></li>
+              <li><a title="Обо всем" href="/beauty/medley2/">Обо всем</a></li>
+              <li><a title="Мисс Вселенная" href="/beauty/missuniverse/">Мисс Вселенная</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a href="/relations/">Любовь</a></li>
+
+
+              <li><a title="Мы и мужчины" href="/relations/men/">Мы и мужчины</a></li>
+              <li><a title="Секс" href="/relations/sex/">Секс</a></li>
+              <li><a title="Свадьба" href="/relations/wedding/">Свадьба</a></li>
+              <li><a title="Брак" href="/relations/marriage/">Брак</a></li>
+              <li><a title="Обо всем" href="/relations/medley4/">Обо всем</a></li>
+              <li><a title="Астрология любви" href="/relations/astrology/">Астрология любви</a></li>
+            </ul>
+            <ul class="last">
+              <li class="topic"><a href="/kids/">Дети</a></li>
+
+
+              <li><a title="Британское образование" href="/kids/british_education/">Британское образование</a></li>
+              <li><a title="«Я — мама»: личный опыт Марии Кожевниковой " href="/kids/maria-kozhevnikova-ya-mama/">«Я —
+                мама»: личный опыт Марии Кожевниковой </a></li>
+              <li><a title="Новорожденные и малыши до года" href="/kids/newborns/">Новорожденные и малыши до года</a>
+              </li>
+              <li><a title="Дети от 6 до 12 лет" href="/kids/deti-ot-6-do-12/">Дети от 6 до 12 лет</a></li>
+              <li><a title="Дети от 1 до 3 лет" href="/kids/deti-ot-goda-do-3-let/">Дети от 1 до 3 лет</a></li>
+              <li><a title="Дети от 3 до 6 лет" href="/kids/deti-ot-3-do-6/">Дети от 3 до 6 лет</a></li>
+              <li><a title="Малыши до 3-х лет" href="/kids/infant/">Малыши до 3-х лет</a></li>
+              <li><a title="Питание" href="/kids/feeding/">Питание</a></li>
+              <li><a title="Здоровье" href="/kids/healthy/">Здоровье</a></li>
+              <li><a title="Психология и развитие" href="/kids/evolution/">Психология и развитие</a></li>
+              <li><a title="Детские сады и школы" href="/kids/Nursery/">Детские сады и школы</a></li>
+              <li><a title="До 16 и старше" href="/kids/teens/">До 16 и старше</a></li>
+              <li><a title="Семейный отдых" href="/kids/vacationss/">Семейный отдых</a></li>
+              <li><a title="Обо всем" href="/kids/medley5/">Обо всем</a></li>
+              <li><a title="Груднички" href="/kids/baby/">Груднички</a></li>
+            </ul>
+            <br clear="both"/>
+            <ul>
+              <li class="topic"><a href="/psycho/">Психология</a></li>
+
+
+              <li><a title="Я - личность" href="/psycho/personality/">Я - личность</a></li>
+              <li><a title="Дружба" href="/psycho/friendship/">Дружба</a></li>
+              <li><a title="Карьера" href="/psycho/career/">Карьера</a></li>
+              <li><a title="Тесты" href="/psycho/tests/">Тесты</a></li>
+              <li><a title="Истории читательниц" href="/psycho/story/">Истории читательниц</a></li>
+              <li><a title="Обо всем" href="/psycho/medley6/">Обо всем</a></li>
+              <li><a title="Финансы" href="/psycho/finance/">Финансы</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a href="/health/">Здоровье</a></li>
+
+
+              <li><a title="Диеты" href="/health/diets/">Диеты</a></li>
+              <li><a title="Женское здоровье" href="/health/woman-health/">Женское здоровье</a></li>
+              <li><a title="Беременность" href="/health/Pregnancy/">Беременность</a></li>
+              <li><a title="Здоровье ног" href="/health/varikoz/">Здоровье ног</a></li>
+              <li><a title="Фитнес" href="/health/health-fitness/">Фитнес</a></li>
+              <li><a title="Обо всем" href="/health/medley7/">Обо всем</a></li>
+              <li><a title="Здоровое  пищеварение" href="/health/spasms/">Здоровое пищеварение</a></li>
+              <li><a title="Аптеки" href="/health/apteki/">Аптеки</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a href="/rest/">Стиль жизни</a></li>
+
+
+              <li><a title="Свободное время" href="/rest/freetime/">Свободное время</a></li>
+              <li><a title="Путешествия" href="/rest/travel/">Путешествия</a></li>
+              <li><a title="Автомобили" href="/rest/auto/">Автомобили</a></li>
+              <li><a title="Гаджеты" href="/rest/gadget/">Гаджеты</a></li>
+              <li><a title="Отдых с детьми" href="/rest/vacation/">Отдых с детьми</a></li>
+              <li><a title="Музыка" href="/rest/music/">Музыка</a></li>
+              <li><a title="Обо всем" href="/rest/medley8/">Обо всем</a></li>
+              <li><a title="Благотворительность" href="/rest/charity/">Благотворительность</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a href="/home/">Дом</a></li>
+
+
+              <li><a title="Рецепты" href="/home/culinary/">Рецепты</a></li>
+              <li><a title="Хобби" href="/home/hobby/">Хобби</a></li>
+              <li><a title="Рукоделие" href="/home/fancy-work/">Рукоделие</a></li>
+              <li><a title="Интерьер" href="/home/Interior/">Интерьер</a></li>
+              <li><a title="Домашние животные и звери" href="/home/animal/">Домашние животные и звери</a></li>
+              <li><a title="Бытовая техника" href="/home/facilities/">Бытовая техника</a></li>
+              <li><a title="Обо всем" href="/home/medley9/">Обо всем</a></li>
+            </ul>
+            <ul class="last">
+              <li class="topic"><a href="/horoscope/">Гороскоп</a></li>
+
+
+              <li><a title="Персональные гороскопы" href="/horoscope/personal-horoscopes/">Персональные гороскопы</a>
+              </li>
+              <li><a title="Обо всем" href="/horoscope/medley10/">Обо всем</a></li>
+            </ul>
+            <br clear="both"/>
+
+            <div id="teasers_scripts">
+            </div>
+
+            <script type="text/javascript">
+              function loadJS(source, charset) {
+                var teasers_elem = document.getElementById("teasers_scripts");
+                script = document.createElement('script');
+                script.type = 'text/javascript';
+                script.async = 'true';
+                script.src = source;
+                script.charset = charset;
+                teasers_elem.appendChild(script);
+              }
+
+              function loadBSN() {
+                if (document.getElementById("DIV_BSN_3")) {
+                  loadJS("http://ro.timeout.ru/?area=getTeaser&adv=3&div=DIV_BSN_3", "utf-8");
+                }
+                ;
+                try {
+                  if (document.getElementById("DIV_BSN_34")) {
+                    loadJS("http://ro.timeout.ru/?area=getTeaser&adv=34&div=DIV_BSN_34", "utf-8");
+                  }
+                  ;
+                } catch (e) {
+
+                }
+                ;
+              }
+            </script>
+            <script type="text/javascript">
+              window.WRP = {
+                parameters: {
+                  'wrp_cookiename': 'wdata',
+                  'wrp_domain': '.woman.ru'
+                }
+              };
+              (function () {
+                var wrps = document.createElement('script');
+                wrps.type = 'text/javascript';
+                wrps.async = true;
+                wrps.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.weborama.io/h4f6j7se3h0g.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(wrps, s);
+              })();
+            </script>
+            <script type="text/javascript">
+              var keywords = clientSideParameters['keywords'];
+            </script>
+          </div>
+          <div id="smbForum">
+            <ul>
+              <li class="topic"><a title="Звёзды" href="/stars/forum/">Звёзды</a></li>
+              <li><a title="Новости" href="/stars/events/forum/">Новости</a></li>
+              <li><a title="Рейтинги" href="/stars/stars-polls/forum/">Рейтинги</a></li>
+              <li><a title="Светская хроника" href="/stars/backstage/forum/">Светская хроника</a></li>
+              <li><a title="Папарацци" href="/stars/paparazzi/forum/">Папарацци</a></li>
+              <li><a title="Интервью" href="/stars/life/forum/">Интервью</a></li>
+              <li><a title="Обо всем" href="/stars/medley1/forum/">Обо всем</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a title="Мода" href="/fashion/forum/">Мода</a></li>
+              <li><a title="Мода на звёздах" href="/fashion/celebrities/forum/">Мода на звёздах</a></li>
+              <li><a title="Тренды" href="/fashion/trends/forum/">Тренды</a></li>
+              <li><a title="Одежда" href="/fashion/clothes/forum/">Одежда</a></li>
+              <li><a title="Нижнее белье" href="/fashion/lingerie/forum/">Нижнее белье</a></li>
+              <li><a title="Аксессуары" href="/fashion/accessories/forum/">Аксессуары</a></li>
+              <li><a title="Обувь" href="/fashion/shoes/forum/">Обувь</a></li>
+              <li><a title="Украшения и часы" href="/fashion/jewellery-watches/forum/">Украшения и часы</a></li>
+              <li><a title="Обо всем" href="/fashion/medley3/forum/">Обо всем</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a title="Красота" href="/beauty/forum/">Красота</a></li>
+              <li><a title="Лицо" href="/beauty/face/forum/">Лицо</a></li>
+              <li><a title="Тело" href="/beauty/body/forum/">Тело</a></li>
+              <li><a title="Макияж" href="/beauty/cosmetics/forum/">Макияж</a></li>
+              <li><a title="Волосы" href="/beauty/hair/forum/">Волосы</a></li>
+              <li><a title="Ногти" href="/beauty/nails/forum/">Ногти</a></li>
+              <li><a title="Ароматы" href="/beauty/perfume/forum/">Ароматы</a></li>
+              <li><a title="Пластика и косметология" href="/beauty/plastic/forum/">Пластика и косметология</a></li>
+              <li><a title="SPA уход" href="/beauty/beauty-spa/forum/">SPA уход</a></li>
+              <li><a title="Обо всем" href="/beauty/medley2/forum/">Обо всем</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a title="Любовь" href="/relations/forum/">Любовь</a></li>
+              <li><a title="Мы и мужчины" href="/relations/men/forum/">Мы и мужчины</a></li>
+              <li><a title="Секс" href="/relations/sex/forum/">Секс</a></li>
+              <li><a title="Свадьба" href="/relations/wedding/forum/">Свадьба</a></li>
+              <li><a title="Брак" href="/relations/marriage/forum/">Брак</a></li>
+              <li><a title="Обо всем" href="/relations/medley4/forum/">Обо всем</a></li>
+            </ul>
+            <ul class="last">
+              <li class="topic"><a title="Дети" href="/kids/forum/">Дети</a></li>
+              <li><a title="Дети от 3 до 6 лет" href="/kids/deti-ot-3-do-6/forum/">Дети от 3 до 6 лет</a></li>
+              <li><a title="Дети от 1 до 3 лет" href="/kids/deti-ot-goda-do-3-let/forum/">Дети от 1 до 3 лет</a></li>
+              <li><a title="«Я — мама»: личный опыт Марии Кожевниковой " href="/kids/maria-kozhevnikova-ya-mama/forum/">«Я
+                — мама»: личный опыт Марии Кожевниковой </a></li>
+              <li><a title="Новорожденные и малыши до года" href="/kids/newborns/forum/">Новорожденные и малыши до
+                года</a></li>
+              <li><a title="Дети от 6 до 12 лет" href="/kids/deti-ot-6-do-12/forum/">Дети от 6 до 12 лет</a></li>
+              <li><a title="Малыши до 3-х лет" href="/kids/infant/forum/">Малыши до 3-х лет</a></li>
+              <li><a title="Питание" href="/kids/feeding/forum/">Питание</a></li>
+              <li><a title="Здоровье" href="/kids/healthy/forum/">Здоровье</a></li>
+              <li><a title="Психология и развитие" href="/kids/evolution/forum/">Психология и развитие</a></li>
+              <li><a title="Детские сады и школы" href="/kids/Nursery/forum/">Детские сады и школы</a></li>
+              <li><a title="До 16 и старше" href="/kids/teens/forum/">До 16 и старше</a></li>
+              <li><a title="Семейный отдых" href="/kids/vacationss/forum/">Семейный отдых</a></li>
+              <li><a title="Обо всем" href="/kids/medley5/forum/">Обо всем</a></li>
+              <li><a title="Груднички" href="/kids/baby/forum/">Груднички</a></li>
+            </ul>
+            <br clear="both"/>
+            <ul>
+              <li class="topic"><a title="Психология" href="/psycho/forum/">Психология</a></li>
+              <li><a title="Я - личность" href="/psycho/personality/forum/">Я - личность</a></li>
+              <li><a title="Дружба" href="/psycho/friendship/forum/">Дружба</a></li>
+              <li><a title="Карьера" href="/psycho/career/forum/">Карьера</a></li>
+              <li><a title="Обо всем" href="/psycho/medley6/forum/">Обо всем</a></li>
+              <li><a title="Финансы" href="/psycho/finance/forum/">Финансы</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a title="Здоровье" href="/health/forum/">Здоровье</a></li>
+              <li><a title="Диеты" href="/health/diets/forum/">Диеты</a></li>
+              <li><a title="Женское здоровье" href="/health/woman-health/forum/">Женское здоровье</a></li>
+              <li><a title="Беременность" href="/health/Pregnancy/forum/">Беременность</a></li>
+              <li><a title="Фитнес" href="/health/health-fitness/forum/">Фитнес</a></li>
+              <li><a title="Обо всем" href="/health/medley7/forum/">Обо всем</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a title="Стиль жизни" href="/rest/forum/">Стиль жизни</a></li>
+              <li><a title="Свободное время" href="/rest/freetime/forum/">Свободное время</a></li>
+              <li><a title="Путешествия" href="/rest/travel/forum/">Путешествия</a></li>
+              <li><a title="Автомобили" href="/rest/auto/forum/">Автомобили</a></li>
+              <li><a title="Гаджеты" href="/rest/gadget/forum/">Гаджеты</a></li>
+              <li><a title="Музыка" href="/rest/music/forum/">Музыка</a></li>
+              <li><a title="Обо всем" href="/rest/medley8/forum/">Обо всем</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a title="Дом" href="/home/forum/">Дом</a></li>
+              <li><a title="Рецепты" href="/home/culinary/forum/">Рецепты</a></li>
+              <li><a title="Хобби" href="/home/hobby/forum/">Хобби</a></li>
+              <li><a title="Рукоделие" href="/home/fancy-work/forum/">Рукоделие</a></li>
+              <li><a title="Интерьер" href="/home/Interior/forum/">Интерьер</a></li>
+              <li><a title="Домашние животные и звери" href="/home/animal/forum/">Домашние животные и звери</a></li>
+              <li><a title="Бытовая техника" href="/home/facilities/forum/">Бытовая техника</a></li>
+              <li><a title="Обо всем" href="/home/medley9/forum/">Обо всем</a></li>
+            </ul>
+            <ul class="last">
+              <li class="topic"><a title="Гороскоп" href="/horoscope/forum/">Гороскоп</a></li>
+              <li><a title="Обо всем" href="/horoscope/medley10/forum/">Обо всем</a></li>
+            </ul>
+            <br clear="both"/>
+            <ul>
+              <li class="topic"><a title="Клуб Woman.ru" href="/writing/forum/">Клуб Woman.ru</a></li>
+              <li><a title="Проба пера" href="/writing/literature/forum/">Проба пера</a></li>
+              <li><a title="Будем знакомы" href="/writing/connexion/forum/">Будем знакомы</a></li>
+            </ul>
+            <ul>
+              <li class="topic"><a title="Клуб по интересам" href="/club/forum/">Клуб по интересам</a></li>
+              <li><a title="Дом 2" href="/club/club-dom2/forum/">Дом 2</a></li>
+              <li><a title="Обо всем" href="/club/club-medley/forum/">Обо всем</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main Extra -->
+      <div id="extra" style="display:block;">
+        <noindex>
+
+          <div id="fixed_ad">
+            <style>
+              .teaser-banner.vk_widget {
+                height: 300px !important;
+              }
+            </style>
+
+            <!--add banners containers-->
+            <div id="S3gs3sn52da21" class="S3gs3sn52da21"></div>
+            <div id="adriver_banner_2" class="adriver_banner_2"></div>
+
+            <div class="classifieds classifieds-fixed" id="classifieds-row" style="padding:4px 1px 8px;">
+              <!--<div class="blockname" style="margin:2px 10px 4px;">Classifieds</div>-->
+              <div style="height: 10px">&nbsp;</div>
+            </div>
+
+            <div class="new-min-banner"></div>
+
+            <div id="specproj" class="specproj-fixed" style="padding:6px;">
+              <!--<span class="sp-header">Спецпроекты</span>-->
+              <div style="height: 10px">&nbsp;</div>
+
+              <ul></ul>
+            </div>
+
+            <!-- VK Widget -->
+            <script type="text/javascript" src="//vk.com/js/api/openapi.js?121"></script>
+
+            <div id="vk_groups" class="teaser-banner vk_widget"></div>
+            <script type="text/javascript">
+              VK.Widgets.Group("vk_groups", {
+                mode: 0,
+                width: "240",
+                height: "300",
+                color1: 'FFFFFF',
+                color2: '2B587A',
+                color3: '5B7FA6'
+              }, 23712458);
+            </script>
+
+
+            <div class="teaser-banner" data-placeholder="extraFixedAd" style="display: none;">
+              <iframe scrolling="no" frameborder="0" width="240" height="375"
+                      src="http://news.gnezdo.ru/show/13/block.html"></iframe>
+            </div>
+
+            <script type="text/javascript">// <![CDATA[
+            (function ($) {
+              /*banners data*/
+              var ClassBns = [6, 7, 8], SpecBns = [9, 10, 11, 12, 13, 19];
+
+              var
+                      bn240_1 = 'S3gs3sn52da21',
+                      bn240_2 = 'adriver_banner_2',
+                      bnClass = 'class_fixed_',
+                      bnSpec = 'special_fixed_',
+                      block240_1 = 'S3gs3sn52da21',
+                      block240_2 = 'adriver_banner_2',
+                      blockClass = 'classifieds-fixed',
+                      blockSpec = 'specproj-fixed',
+                      blockNewMin = 'new-min-banner',
+                      blockTis = 'teaser-banner',
+                      countClass = 3,
+                      countSpec = 3;
+
+              var $main = $("#fixed_ad");
+
+              /*banners base*/
+              function newBanner(id, bn) {
+                var params = {sid: 90407, bt: 52, pz: ar_duo1, keyword: tags_keywords};
+                if (bn != 20 || bn != 31) params.custom = ar_custom;
+                if (Array.isArray(bn)) params.bn = bn[Math.floor(Math.random() * bn.length)]; else params.bn = bn;
+                return null;
+              }
+
+              function reloadBanner(id, bn) {
+                $('#' + id).html('');
+                return newBanner(id, bn);
+              }
+
+              function reloadBanners(isClass) {
+                var id, count, bn;
+                var sequentially = true;
+                if (isClass) {
+                  id = bnClass;
+                  count = countClass;
+                  bn = [6, 7, 8]/*ClassBns*/;
+                }
+                else {
+                  id = bnSpec;
+                  count = countSpec;
+                  bn = [9, 10, 11];
+                }
+
+                for (var i = 1; i <= count; i++) {
+                  if (!sequentially || !Array.isArray(bn)) reloadBanner(id + i, bn);
+                  else reloadBanner(id + i, bn[(i - 1) % bn.length]);
+                }
+              }
+
+              function makeBannersList() {
+                //specprojects
+                var block = $main.find('.' + blockSpec + ' ul'), s = '';
+                for (var i = 1; i <= countSpec; i++)
+                  s += '<li id="special_fixed_' + i + '" class="adriverBanner"></li>'
+                block.append(s);
+
+                // classfields
+                block = $main.find('.' + blockClass);
+                s = '';
+                for (i = 1; i <= countClass; i++)
+                  s += '<div id="class_fixed_' + i + '" class="adriverBanner one_block"></div>'
+                block.append(s);
+
+                //new-min-banner
+                var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+                var ar_Tail = 'unknown';
+                if (document.referrer) ar_Tail = escape(document.referrer);
+              }
+
+              //scroll parameters
+              var curScreen = 0;
+              var defScreenHeight = 3000;
+              var startPos = 370;
+              var blankLength = 200;
+              var blankSpace = false;
+              var specialScreens = {"1": 800};
+
+              // check if change current "screen"
+              function checkRange() {
+                var newScreen, newPos;
+                var res = 0;
+
+                var cur = $(window).scrollTop() - startPos;
+                while (cur > 0) {
+                  var curScrHeight = res in specialScreens ? specialScreens[res] : defScreenHeight;
+                  if (cur < curScrHeight) newPos = cur;
+                  else res++;
+                  cur -= curScrHeight;
+                }
+                newScreen = res;
+
+                var newBlankSpace = newScreen != 0 && newPos <= blankLength;
+                res = newScreen != curScreen || newBlankSpace != blankSpace;
+
+                curScreen = newScreen;
+                blankSpace = newBlankSpace;
+
+                return res;
+              }
+
+              $(window).on('scroll', function () {
+                if (!checkRange()) return;
+                setBlock();
+              });
+
+              // show needed banner, hide others
+              function changeBanners(b_show) {
+                var all_banners = [block240_1, block240_2, blockClass, blockSpec, blockNewMin, blockTis];
+
+                function setItem(i_class, isShow) {
+                  var item = $main.find('.' + i_class);
+                  if (!item.length) return;
+                  if (isShow) item.show(); else item.hide();
+                }
+
+                for (var i = 0; i < all_banners.length; i++)
+                  setItem(all_banners[i], $.inArray(all_banners[i], b_show) >= 0)
+              }
+
+              function isBranding() {
+                return ($("#leftEye").length || ( $('body').css("background-image").match(/url\(["]*[a-z0-9-_:/.]*top.jpg["]*\)/g) ));
+              }
+
+              /*main block change*/
+              var firstCall = true;
+
+              function setBlock() {
+                if (blankSpace) {
+                  changeBanners([]);
+                  return;
+                }
+
+                var num = curScreen + 1;
+                if (num == 2) {
+                  changeBanners([blockNewMin, blockSpec]);
+                  reloadBanners(false);
+                }
+                else if (num == 3) changeBanners([blockTis]);
+                else {
+                  var blockBan240, ban240, banNum;
+                  if (num == 1) {
+                    blockBan240 = block240_1;
+                    ban240 = bn240_1;
+                    banNum = 31;
+                  }
+                  else {
+                    blockBan240 = block240_2;
+                    ban240 = bn240_2;
+                    banNum = 20;
+                  }
+
+                  changeBanners([blockClass, blockBan240]);
+                  if (num != 1 || (firstCall && !isBranding()))
+                    if (ban240 != bn240_1)  // ХАК: не релоадить верхний  баннер
+                      reloadBanner(ban240, banNum);
+                  if (num == 1) firstCall = false;
+                  reloadBanners(true);
+                }
+              }
+
+              // hide banners
+              changeBanners([]);
+
+              // set right banner to fixed
+              if ($main.length) {
+                window.setTimeout(function () {
+                  var legoBlock = new lego.FixedBlock($main, $("#content"), {});
+
+                  makeBannersList();
+                  checkRange();
+                  setBlock();
+                }, 2000);
+              }
+            })(jQuery);
+            // ]]></script>
+          </div>
+
+        </noindex>
+
+        <!-- --><br style="clear:both; line-height:0"/>
+
+      </div>
+      <div id="footer">
+        <div id="footer-partners">
+          <span class="footer-partners footer-partners-shkulev" rel="shkulev"></span>
+          <span class="footer-partners footer-partners-elle" rel="elle"></span>
+          <span class="footer-partners footer-partners-woman" rel="woman"></span>
+          <span class="footer-partners footer-partners-wdays" rel="wdays"></span>
+          <span class="footer-partners footer-partners-mc" rel="mc"></span>
+          <span class="footer-partners footer-partners-elle-girl" rel="elleg"></span>
+          <span class="footer-partners footer-partners-psy" rel="psy"></span>
+          <span class="footer-partners footer-partners-decor" rel="decor"></span>
+          <span class="footer-partners footer-partners-parents" rel="parents"></span>
+          <span class="footer-partners footer-partners-starhit" rel="starhit"></span>
+        </div>
+        <div id="footer-stats">
+          <!--<img src="/i/stat_WOMAN_RU_6.jpg" alt="Статистика посещений Woman.ru" />-->
+        </div>
+
+
+        <div id="footer-logo">
+          <a href="http://www.woman.ru" title="Woman.ru - Интернет для женщин">
+            <!--<img src="/i/newFooter/smallLogo.png" alt="Логотип Woman.ru" />-->
+          </a>
+        </div>
+
+
+        <div class="our-social our-social__footer">
+          <div class="our-social__intro">Мы в социальных сетях. Присоединяйтесь!</div>
+          <div class="our-social__item our-social__fb" rel-type='fb'>
+            <div class="item__button"><span></span></div>
+            <div class="item__button-name">Facebook</div>
+          </div>
+          <div class="our-social__item our-social__vk" rel-type='vk'>
+            <div class="item__button"><span></span></div>
+            <div class="item__button-name">ВКонтакте</div>
+          </div>
+          <div class="our-social__item our-social__tw" rel-type='tw'>
+            <div class="item__button"><span></span></div>
+            <div class="item__button-name">Twitter</div>
+          </div>
+          <div class="our-social__item our-social__ok" rel-type='ok'>
+            <div class="item__button"><span></span></div>
+            <div class="item__button-name">Одноклассники</div>
+          </div>
+          <div class="our-social__item our-social__gp" rel-type='gp'>
+            <div class="item__button"><span></span></div>
+            <div class="item__button-name">Google+</div>
+          </div>
+          <div class="our-social__item our-social__pn" rel-type='pn'>
+            <div class="item__button"><span></span></div>
+            <div class="item__button-name">Pinterest</div>
+          </div>
+          <div class="our-social__item our-social__mm" rel-type='mm'>
+            <div class="item__button"><span></span></div>
+            <div class="item__button-name">Мой мир</div>
+          </div>
+          <div class="our-social__item our-social__in" rel-type='in'>
+            <div class="item__button"><span></span></div>
+            <div class="item__button-name">Instagram</div>
+          </div>
+        </div>
+
+        <noindex>
+          <ul id="footer-menu">
+            <li><a href="/marketing/marketing-articles/article/95503/" title="О проекте">О проекте</a></li>
+            <li><a href="/womanru/guestbook/article/45915/" title="Правила">Правила</a></li>
+            <li><a href="/marketing/marketing-articles/article/95501/" title="Редакция">Редакция</a></li>
+            <li><a href="/marketing/marketing-articles/article/95502/" title="Рекламодателям">Рекламодателям</a></li>
+            <li><a href="/marketing/marketing-articles/article/95504/" title="Вакансии">Вакансии</a></li>
+            <li><a href="/pages/rsubscription/" title="RSS">RSS</a></li>
+            <li class="last"><a href="/mailer/subscribe/" title="Подписки">Подписки</a></li>
+          </ul>
+        </noindex>
+
+        <noindex>
+          <p>
+          <noscript><img
+                  src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=548526&bt=21&pid=2177315&bid=4182163&bn=4182163&rnd=430610103"
+                  border=0 width=1 height=1></noscript>
+          Пользователь сайта Woman.ru понимает и принимает, что он несет полную ответственность за все материалы
+          частично или полностью опубликованные им с помощью сервиса Woman.ru.<br/>Пользователь сайта Woman.ru
+          гарантирует, что размещение представленных им материалов не нарушает права третьих лиц (включая, но не
+          ограничиваясь авторскими правами), не наносит ущерба их чести и достоинству.<br/>Пользователь сайта Woman.ru,
+          отправляя материалы, тем самым заинтересован в их публикации на сайте и выражает свое согласие на их
+          дальнейшее использование редакцией сайта Woman.ru.<span class="bullet-16">&nbsp;</span><br/>Все материалы
+          сайта Woman.ru, независимо от формы и даты размещения на сайте, могут быть использованы только с согласия
+          редакции сайта. Перепечатка материалов с сайта Woman.ru невозможна без письменного разрешения
+          редакции.<br/><br/>Редакция не несет ответственности за содержание рекламных объявлений и статей. Мнение
+          авторов может не совпадать с точкой зрения редакции. <br/><br/>Материалы, размещенные в разделе "Секс" не
+          рекомендованы для просмотра лицам, не достигшим 18 лет (18+)<br/><br/>При посещении сайта woman.ru вы
+          принимаете <a href="/womanru/guestbook/article/45915/">Правила пользования сайтом Woman.ru</a>, в т.ч. и в
+          части касающейся куки-файлов.<br/><br/>Сетевое издание &laquo;Woman.ru&raquo; (Свидетельство СМИ Эл №ФС
+          77-51007, выдано Роскомнадзором 27 августа 2012 года).</p>  </noindex>
+
+        <div class="grey-dotted-1px"></div>
+        <noindex>
+          <div id="footer-counters">
+            <img src="http://d9.c6.b0.a0.top.mail.ru/counter?id=26942;t=56" border="0" height="31" width="88"
+                 alt="Рейтинг@Mail.ru"/>
+            <!--LiveInternet logo--><img src="http://counter.yadro.ru/logo?52.6"
+                                         title="LiveInternet: показано число просмотров и посетителей за 24 часа"
+                                         alt="" border=0 width=88 height=31><!--/LiveInternet-->
+            <br style="clear:both;"/>
+            <!-- begin of Top100 code -->
+            <a href="http://www.rambler.ru">Партнер &#171;Рамблера&#187;</a>
+
+            <div id="rambler"></div>
+            <script type="text/javascript">
+              var _top100q = _top100q || [];
+              _top100q.push(["setAccount", "201643"]);
+              _top100q.push(["sync", "{SYNC_ID}"]);
+              _top100q.push(["trackPageviewByLogo", document.getElementById("rambler")]);
+              (function () {
+                var top100 = document.createElement("script");
+                top100.type = "text/javascript";
+                top100.async = true;
+                top100.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/pack/pack.min.js";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(top100, s);
+              })();
+            </script>
+
+
+          </div>
+        </noindex>
+      </div>
+
+
+    </div>
+  </div>
+  <noindex>
+    <script type="text/javascript">
+      (function () {
+        var csid = "F09828";
+        var bpid = "top50ru";
+        var e = document.createElement("script");
+        var s = document.getElementsByTagName("script")[0];
+        e.src = "//js.revsci.net/gateway/gw.js?auto=t&csid=" + csid + "&bpid=" + bpid;
+        e.async = true;
+        s.parentNode.insertBefore(e, s);
+      })();
+    </script>
+  </noindex>
+
+  <div id="teasers_scripts">
+  </div>
+
+  <script type="text/javascript">
+    function loadJS(source, charset) {
+      var teasers_elem = document.getElementById("teasers_scripts");
+      script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.async = 'true';
+      script.src = source;
+      script.charset = charset;
+      teasers_elem.appendChild(script);
+    }
+
+    function loadBSN() {
+      if (document.getElementById("DIV_BSN_3")) {
+        loadJS("http://ro.timeout.ru/?area=getTeaser&adv=3&div=DIV_BSN_3", "utf-8");
+      }
+      ;
+      try {
+        if (document.getElementById("DIV_BSN_34")) {
+          loadJS("http://ro.timeout.ru/?area=getTeaser&adv=34&div=DIV_BSN_34", "utf-8");
+        }
+        ;
+      } catch (e) {
+
+      }
+      ;
+    }
+  </script>
+  <script type="text/javascript">
+    window.WRP = {
+      parameters: {
+        'wrp_cookiename': 'wdata',
+        'wrp_domain': '.woman.ru'
+      }
+    };
+    (function () {
+      var wrps = document.createElement('script');
+      wrps.type = 'text/javascript';
+      wrps.async = true;
+      wrps.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.weborama.io/h4f6j7se3h0g.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wrps, s);
+    })();
+  </script>
+
+
+  <span data-runtime="%1Aa0%2C%09%5DtUiv%03D%0Dl%08%07%06I%15%151%21%3C.%17%0E%10B%0FJ%08%02%0C%07%09YP%08W%14%1Bhz1.%2A%5B%18%21P%08%23%16%0CU%1BW%0D%07%1A%15T%17%5E%5C%3E%2FhEGS%04Sf%7FCfM%7B%06ET%7E%1Dc4F%0Fi%0C%2B%40%5E%1DxY%05PumEvD%14%5B3%26X%5BTFqx%5CsW%0C%1E%7B%17P%14%07%060AVA-%28%08%03%5C5eq%7E%15%127%09%17%29R%2F%1A%0D%1E39Z%21%21%16%60%08Xj.V%0CZ%22%1A%3EP%0Ei4_%1D%23%3Co%09u%15uR00%5EU%1BSPCo%1F%06%1C%5C%12BVT%10P%140PP%2F%2B%16%13o1%26EX%175%01%14%01%3BP%11%03%00%05JtX%5B%22P_%0C%0BRRX%038+1A%19EqqH%12%3C%5EP%00%3Bf.%29S%5B.%3E%2B-1%17g2%0E%2C%23j%1D%5C%3A_%40_X%03%07%24"
+        style="display:none"></span>
+</body>
+</html>
+
